@@ -1,6 +1,6 @@
 # Portal da Folha
 
-Bem-vindo ao Portal da Folha! Este é um sistema para gerenciamento de folha de pagamento e visualização de dados relacionados.
+Bem-vindo ao Gestão de Vendas! Este é um sistema para gerenciamento de Vendas de Frutas e visualização de dados relacionados a vendas,
 
 ## Funcionalidades
 
